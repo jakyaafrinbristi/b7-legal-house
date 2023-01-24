@@ -25,3 +25,11 @@
     height: 100vh;
    
 }
+.accordion-item, .accordion-header{
+    background-color: transparent !important;
+    border:none !important;
+   
+}
+
+
+
